@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 Hi , my name's Trystan DENEUVE
 ---
 I'm currently a student at the University of Limoges, France
