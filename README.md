@@ -1,6 +1,6 @@
 Hi , my name's Trystan DENEUVE
 ---
-I'm currently a student at the University of Limoges, France
+I'm currently a student at the University of Limoges, France \n
 I'm learning Computer Sciences since 2025 
 
 ---
